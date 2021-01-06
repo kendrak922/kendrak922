@@ -5,6 +5,6 @@
 
 - Javascript, React, and CSS focused.
 - 🌱 Currently learning more about accessibility.
--  Likes: Coding, bad movies, breweries, and cooking. 
+- Likes: Coding, bad movies, breweries, and cooking. 
 - Dislikes: American Cheese.
 - Ask me what I'm reading. 📚
