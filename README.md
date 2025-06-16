@@ -5,6 +5,6 @@
 
 - WordPress <3 
 - 🌱 Currently learning more about accessibility.
-- Likes: Coding, bad movies, breweries, and cooking. 
-- Dislikes: American Cheese.
+- Likes: Coding, bad movies, bike rides, and cooking. 
+- Dislikes: american cheese.
 - Ask me what I'm reading. 📚
