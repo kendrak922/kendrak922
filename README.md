@@ -4,7 +4,7 @@
 
 
 - WordPress <3 
-- 🌱 Currently learning more about accessibility.
+- 🌱 Currently learning more about eCommerce.
 - Likes: Coding, bad movies, bike rides, and cooking. 
 - Dislikes: american cheese.
 - Ask me what I'm reading. 📚
